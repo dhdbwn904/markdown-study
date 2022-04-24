@@ -28,5 +28,5 @@
 
 ## 2-1. Board Game
 ------
-
+![image1](./resources/BoardGame.gif){: width="80%" height="80%"}
 
