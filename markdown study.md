@@ -1,4 +1,4 @@
-# <center>Juhyun Lee</center>
+# Juhyun Lee
 ### 단국대학교 소프트웨어학과 학부생입니다.
 ### 우선적으로 안드로이드 개발자가 되는 것을 목표로 공부하고 있습니다.
 ### 최종적인 목표는 정체되지 않고 지속적인 성장을 이루는 개발자가 되는 것입니다.
@@ -11,11 +11,6 @@
  - C, C++, C#
  - Kotlin
 
-## 🛠 개발 환경
- - Android Studio
-
-## 🛠 프레임워크
- - Flutter
 <br>
 
 # 2. Projects
@@ -27,6 +22,6 @@
 <br>
 
 ## 2-1. Board Game
-------
-![image1](./resources/BoardGame.gif){: width="80%" height="80%"}
+<br>
+<img src="https://user-images.githubusercontent.com/65771716/164988870-3d50cdc2-2c63-4c6e-bd21-7b8441c29aba.gif" width="80%" height="80%" margin-left=auto margin-right=auto/>
 
