@@ -45,7 +45,6 @@
 - 백엔드 : Firebase
 - 개발 환경 : Android Studio<br><br>
 ### 📋 **Description**
-<br>
 단국대학교 내의 분실물을 지도 상에 표시해주는 어플리케이션입니다.
 
 Google API를 통한 로그인, 메인 화면 UI, 지도 상의 커스텀 마커 디자인, 키워드 알림을 개발하였습니다. 
@@ -72,7 +71,6 @@ Google API를 통한 로그인, 메인 화면 UI, 지도 상의 커스텀 마커
 - 개발 환경 : Android Studio
 
 ### 📋 **Description**
-<br>
 
 플래너 어플입니다.
 
